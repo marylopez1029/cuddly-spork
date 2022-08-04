@@ -1,0 +1,36 @@
+# Kickstarting with Excel
+
+## Overview of Project
+Analyze the following data to identify trends in kickstarter campaigns based on a dataset from 2009-2017.
+### Purpose
+The purpose of this analysis is to identify the most successful types of kickstarters and the parameters by which they succeed so that others may recreate a successful campaign or identify
+points of weaknesses that can be fixed. It can also be used to identify which industries will contribute most to economy and GDP depending on public interest in the
+project or kickstarter and can guide governmantal policy-making in research, subsidies, and tax breaks.
+
+## Analysis and Challenges
+The first challenge was that the data had to be made legible. Some of the dating was made in different code and had to be converted. 
+The second challenge was that certain cells had multiple data encoded into it- parent categories and subcategories were in the same cell. So they had to be separated into different columns.
+It was beneficial to color code and conditionally format the data. It became much easier to identify which kickstarters were successful and which were not. 
+
+### Analysis of Outcomes Based on Launch Date
+With regards to the client's preference for theaters, based on the line graph, it's obvious that projects were more successful in the warmer months- i.e. May-August with a return to the baseline around 60% success and below aorund September. Preparations for kickstarters should be made in the cold seasons and execute in the warmer seasons for a higher chance of success.
+
+### Analysis of Outcomes Based on Goals
+Anything with a goal larger than $45,000 has a greater chance of failing as seen in past experiences. 
+### Challenges and Difficulties Encountered
+The excel file was so large that at one point the pivot tables stopped updating itself when the worksheet was updated, so the pivot tables had to be deleted and redone all over.
+Furthermore, since there was so much data, there was a lot of squinting on my part, and constantly switching amongst the different sheets. 
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+May would be the best launch date for a theater production, however kickstarters across all industries seem to succeed in the warmer months.
+
+- What can you conclude about the Outcomes based on Goals?
+Based on the outcomes of the kickstarters in regards with the goals, smaller scale projects (<$45k) have seen a higher chance of success.
+
+- What are some limitations of this dataset?
+The most recent date from this dataset is 2017. However, there have been many changes in the economy due to current events. So trying to apply the trends from this dataset to the current times may not bode well. 
+- What are some other possible tables and/or graphs that we could create?
+Depending on the client, it's possible to create more specialized tables aligned with their interests. Louise was particularly interested in theater and in British plays and culture, however each client is different. Someone in the technology would prefer different visuals catered to them, as well as taking the intended audience of the
+kickstarters such as local, national, or international. 
