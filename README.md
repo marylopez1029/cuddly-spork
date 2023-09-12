@@ -1,2 +1,2 @@
 # cuddly-spork
-Demo repo for class
+Demo repo 
